@@ -1,3 +1,5 @@
+outdated 
+
 <img width="1262" alt="Screen Shot 2024-02-01 at 11 52 44 AM" src="https://github.com/ngoiyaeric/Coding-Portfolio/assets/115367894/94e8b41c-62ab-4fd0-875b-b71c1376cab7">
 
 <img width="1262" alt="Screen Shot 2024-02-01 at 12 23 50 PM" src="https://github.com/ngoiyaeric/Coding-Portfolio/assets/115367894/2f527909-7024-4e5c-80be-1cb9bed47648">
