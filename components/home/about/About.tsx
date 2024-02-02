@@ -19,7 +19,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              outside of Software, my interests meander in design, art,
+              outside of work, my interests meander in design, art,
               and technology. you might find me sketching 🎨, or reading cool books 📚. 
             </p>
           </Reveal>
