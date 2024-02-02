@@ -13,15 +13,14 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              hello world⚡, i&apos;m eric. i&apos;m a young adult entering my mid 20&apos;s
-              with a burning desire to build useful technologies. i strive to craft solutions that bring value to users' lives.
-             
+              hello world⚡, i&apos;m eric. i&apos;m a Software Engineer
+              with a desire to build useful technologies. i'd like to work on ideas that bring value to users' lives.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              outside of Software, my interests meander in design, art,
-              and health. you might find me painting🎨, or reading philosophy. 
+              outside of work, my interests meander in design, art,
+              and technology. you might find me sketching 🎨, or reading cool books 📚. 
             </p>
           </Reveal>
           <Reveal>
@@ -30,14 +29,13 @@ export const About = () => {
                 now:
               </p>
               <p className={styles.aboutText}>
-                i&apos;m a computer science graduate from York University🎓.
-                also working on getting cloud☁️ certified
+                i&apos;m an Information Technology Engineer at a Start-up 👽. 
               </p>
               
         
               <p className={styles.aboutText}>
                 focusing on learning new technologies and delving 
-                deeper into machine learning and artificial intelligence🤖. 
+                deeper into machine learning and artificial intelligence 🤖. 
               </p>
               <p className={styles.aboutText} style={{ fontWeight: "bold" }}>
                 previously:
