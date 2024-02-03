@@ -61,21 +61,6 @@ const experience = [
     ],
   },
      
-    {
-      title: "Ferina Office",
-      position: "Store Administrator",
-      time: "May 2015 - September 2015",
-      location: "Dar es salaam, TZ",
-      description: 
-      `Working with printers, scanners and other office adminitrative equipment to provide services to customers`,
-      tech: [
-        "Drivers",
-        "Printers",
-        "Scanners",
-        "Photocopy Machines",
-        "Microsoft Office",
-        "Portable Point Of Sale System",
-      ],
-    },
+   
 
     ]
