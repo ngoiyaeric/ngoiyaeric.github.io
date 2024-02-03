@@ -48,7 +48,7 @@ export const MyLinks = () => {
         transition={{ duration: 0.5, delay: 0.1 }}
       >
         <Link
-          href="https://medium.com/@eicngoiya"
+          href="https://medium.com/@EricNgoiya"
           target="_blank"
           rel="nofollow"
         >
