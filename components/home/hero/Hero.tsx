@@ -60,7 +60,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <StandardButton
-            onClick={() => document.getElementById("contact")?.scrollIntoView()}
+            onClick={() => document.getElementById("📧")?.scrollIntoView()}
           >
              contact
           </StandardButton>
