@@ -1,12 +1,12 @@
 import "@styles/globals.css";
-import { Sacramento , Foldit } from "next/font/google";
+import { Sacramento , Handjet } from "next/font/google";
 
-const ibm_plex_mono = Foldit({
+const ibm_plex_mono = Handjet({
   weight: ["400", "400", "400", "400"],
   subsets: ["latin"],
 });
 
-const poppins = Foldit({
+const poppins = Handjet({
   weight: ["400", "400", "400", "400", "400"],
   subsets: ["latin"],
 });
