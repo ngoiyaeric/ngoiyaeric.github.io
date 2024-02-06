@@ -43,7 +43,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            welcome to my <span>little corner of the world wide web</span>
+            welcome to my <span> corner of the world wide web</span>
           </h2>
         </Reveal>
         <Reveal>
