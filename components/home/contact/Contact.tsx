@@ -22,14 +22,14 @@ export const Contact = () => {
             >
               linkedin
             </Link>{" "}
-            if that&apos;s more your speed.
+            if that&apos;s what you prefer.
           </p>
         </Reveal>
         <Reveal width="100%">
           <Link href="mailto:info.ericmail@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="2.4rem" />
-              <span>info.ericmail@gmail.com</span>
+              <span>ngoiya.eric@goutlook.com</span>
             </div>
           </Link>
         </Reveal>
