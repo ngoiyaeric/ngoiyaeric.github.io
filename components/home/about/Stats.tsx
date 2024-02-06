@@ -48,6 +48,7 @@ export const Stats = () => {
             <span>tools and databases</span>
           </h4>
           <div className={styles.statGrid}>
+            <span className="chip">Visual Studio Code</span>
             <span className="chip">Git/GitHub</span>
             <span className="chip">AWS</span>
             <span className="chip">PostgreSQL</span>
