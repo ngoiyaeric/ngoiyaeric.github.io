@@ -51,7 +51,7 @@ export const Hero = () => {
             <p>
               -&gt; compsci graduate from york university <br /> <br /> 
               -&gt; building <span>impactful</span>, <span> scalable </span>, and <span> secure </span> software <br /> <br /> 
-              -&gt; passionate about artificial intelligence, backend engineering, and infrastructure.
+              -&gt; usually thinking about artificial intelligence, backend engineering, and infrastructure.
            
             </p>
             <br />
