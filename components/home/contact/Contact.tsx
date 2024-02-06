@@ -29,7 +29,7 @@ export const Contact = () => {
           <Link href="mailto:info.ericmail@gmail.com">
             <div className={styles.contactEmail}>
               <AiFillMail size="2.4rem" />
-              <span>ngoiya.eric@goutlook.com</span>
+              <span>ngoiya.eric@outlook.com</span>
             </div>
           </Link>
         </Reveal>
