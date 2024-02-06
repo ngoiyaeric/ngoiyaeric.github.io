@@ -35,7 +35,7 @@ export const About = () => {
         
               <p className={styles.aboutText}>
                 focusing on learning new technologies and delving 
-                deeper into machine learning and artificial intelligence 🤖. 
+                deeper into cloud infrastructure and artificial intelligence 🤖. 
               </p>
               <p className={styles.aboutText} style={{ fontWeight: "bold" }}>
                 previously:
