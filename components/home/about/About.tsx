@@ -20,7 +20,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               outside of work, my interests meander in design, art,
-              and technology. you might find me sketching 🎨, or reading cool books 📚. 
+              and audio 🔈. you might find me sketching 🎨, or reading cool books 📚. 
             </p>
           </Reveal>
           <Reveal>
@@ -29,7 +29,7 @@ export const About = () => {
                 now:
               </p>
               <p className={styles.aboutText}>
-                i&apos;m an Information Technology Engineer at a Start-up 👽. 
+                i&apos;m an Information Technology Engineer at a Start-up 🏢. 
               </p>
               
         
