@@ -14,7 +14,7 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Queue Enterprises",
+    title: "Queue Enterprise",
     position: "Software Engineer",
     time: "May 2023 - Present",
     location: "Toronto, ON",
@@ -30,6 +30,7 @@ const experience = [
       "Redis",
       "Rust",
       "Git"
+      "Swift" 
     ],
   },
   {
