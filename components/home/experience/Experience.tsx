@@ -15,7 +15,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "Queue Enterprises",
-    position: "Information Technology Engineer",
+    position: "Software Engineer",
     time: "May 2023 - Present",
     location: "Toronto, ON",
     description: 
