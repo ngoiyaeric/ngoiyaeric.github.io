@@ -29,7 +29,7 @@ export const About = () => {
                 now:
               </p>
               <p className={styles.aboutText}>
-                i&apos;m an Information Technology Engineer at a Start-up 🏢. 
+                i&apos;m a Software Engineer at a Start-up 🏢. 
               </p>
               
         
