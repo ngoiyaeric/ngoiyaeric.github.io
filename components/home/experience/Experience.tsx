@@ -29,7 +29,7 @@ const experience = [
       "PostgreSQL",
       "Redis",
       "Rust",
-      "Git"
+      "Git",
       "Swift" 
     ],
   },
