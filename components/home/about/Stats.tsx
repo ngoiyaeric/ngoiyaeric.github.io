@@ -22,6 +22,7 @@ export const Stats = () => {
             <span className="chip">Typescript</span>
             <span className="chip">SQL</span>
             <span className="chip">Bash</span>
+            <span className="chip">Terraform</span>
             <span className="chip">LaTeX</span>
           </div>
         </div>
