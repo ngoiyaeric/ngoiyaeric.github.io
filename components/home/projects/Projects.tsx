@@ -97,7 +97,7 @@ const projects = [
   },
   {
     title: "GPT-Investor",
-    imgSrc: "/project-imgs/Cash.jpg", //642 x 408
+    imgSrc: "/project-imgs/Cash.png", //642 x 408
     code: "https://github.com/ngoiyaeric/GPT-Investor",
     projectLink: "https://github.com/ngoiyaeric/GPT-Investor",
     tech: ["BeautifulSoup", "Python", "OpenAI"],
