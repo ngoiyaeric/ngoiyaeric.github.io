@@ -166,7 +166,7 @@ const projects = [
     title: "Square Hackathon",
     imgSrc: "/project-imgs/Square.png", //642 x 408
     code: "https://github.com/Aladdin4u/square-store",
-    projectLink: "finesse-gamma.vercel.app",
+    projectLink: "https://finesse-gamma.vercel.app",
     tech: ["React", "Next.js", "Javascript", "Typescript"],
     description:
       "E-commerce",
