@@ -115,7 +115,7 @@ const projects = [
     title: "Open Interpreter",
     imgSrc: "/project-imgs/oi.png", //642 x 408
     code: "https://github.com/OpenInterpreter/open-interpreter/issues/1047",
-    projectLink: "openinterpreter.com",
+    projectLink: "https://openinterpreter.com",
     tech: ["Python", "Artificial Intelligence"],
     description:
       "Language Computer",
