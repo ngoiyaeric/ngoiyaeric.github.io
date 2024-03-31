@@ -20,7 +20,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               outside of work, my interests meander in design, art,
-              and audio 🔈. you might find me sketching 🎨, or reading cool books 📚. 
+              and Sound/Audio 🔈. you might find me sketching 🎨, or reading cool books 📚. 
             </p>
           </Reveal>
           <Reveal>
