@@ -56,7 +56,7 @@ const projects = [
   },
   {
     title: "Gooogle Cloud Skills Boost",
-    imgSrc: "/project-imgs/t.jpg", //642 x 408
+    imgSrc: "/project-imgs/P.jpg", //642 x 408
     code: "",
     projectLink: "https://www.cloudskillsboost.google/profile/badges",
     tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
@@ -96,8 +96,24 @@ const projects = [
     ),
   },
   {
+    title: "GPT-Investor",
+    imgSrc: "/project-imgs/Cash.jpg", //642 x 408
+    code: "https://github.com/ngoiyaeric/GPT-Investor",
+    projectLink: "https://github.com/ngoiyaeric/GPT-Investor",
+    tech: ["BeautifulSoup", "Python", "OpenAI"],
+    description:
+      "Artificial Intelligence",
+    modalContent: (
+      <>
+        <p>
+          'Input industry, get top performing Stocks and Explanations'
+        </p>
+      </>
+    ),
+  },
+  {
     title: "Essence Cube-Sat Mission",
-    imgSrc: "/project-imgs/S.png", //642 x 408
+    imgSrc: "/project-imgs/Si.png", //642 x 408
     code: "https://www.asc-csa.gc.ca/eng/satellites/cubesat/",
     projectLink: "http://www.yorku.ca/cubesat/",
     tech: ["Nano-Satelite", "Scripting"],
