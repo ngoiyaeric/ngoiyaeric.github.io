@@ -56,7 +56,7 @@ const projects = [
   },
   {
     title: "Gooogle Cloud Skills Boost",
-    imgSrc: "./project-imgs/t.jpg", //642 x 408
+    imgSrc: "/project-imgs/t.jpg", //642 x 408
     code: "",
     projectLink: "https://www.cloudskillsboost.google/profile/badges",
     tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
