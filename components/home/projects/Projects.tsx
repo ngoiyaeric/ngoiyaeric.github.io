@@ -58,7 +58,7 @@ const projects = [
     title: "Gooogle Cloud Skills Boost",
     imgSrc: "/project-imgs/P.jpg", //642 x 408
     code: "",
-    projectLink: "https://www.cloudskillsboost.google/profile/badges",
+    projectLink: "https://www.cloudskillsboost.google/public_profiles/41cc05c1-8f72-4595-9c16-ba723cd1df91",
     tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
     description:
       "Cloud technologies & Artificial Intelligence",
@@ -106,7 +106,23 @@ const projects = [
     modalContent: (
       <>
         <p>
-          'Input industry, get top performing Stocks and Explanations'
+          'Input industry, get top performing Stocks and Explanations. More features coming soon'
+        </p>
+      </>
+    ),
+  },
+  {
+    title: "Open Interpreter",
+    imgSrc: "/project-imgs/oi.png", //642 x 408
+    code: "https://github.com/OpenInterpreter/open-interpreter/issues/1047",
+    projectLink: "openinterpreter.com",
+    tech: ["Python", "Artificial Intelligence"],
+    description:
+      "Language Computer",
+    modalContent: (
+      <>
+        <p>
+         `Actively involved in the open source community, raising and closing issues relating to system usability as well as attending feature ideation meetings. `
         </p>
       </>
     ),
@@ -122,14 +138,14 @@ const projects = [
     modalContent: (
       <>
         <p>
-         `grateful for the opportunity to contribute to the mission'
+         `Satelite to track change in permafrost due to climate change'
         </p>
       </>
     ),
   },
   {
     title: "Genesys Hackathon",
-    imgSrc: "/project-imgs/genesys.jpg", //642 x 408
+    imgSrc: "/project-imgs/Banner.jpg", //642 x 408
     code: "",
     projectLink: "https://www.blogto.com/events/genesys-hackathon-toronto-2/",
     tech: ["Genesis API", "NoSQL", "Python", "Postman"],
@@ -141,6 +157,23 @@ const projects = [
          `Developed a solution to provide foreigners in Canada with answers to frequently asked questions about the area.
           Fine-tuned Genesis' proprietary natural language model with question and answer pairs using http posts to their api over http.
           developed a nosql database to store new questions for further model fine-tuning.`
+        </p>
+      </>
+    ),
+  },
+
+  {
+    title: "Square Hackathon",
+    imgSrc: "/project-imgs/Square.png", //642 x 408
+    code: "https://github.com/Aladdin4u/square-store",
+    projectLink: "finesse-gamma.vercel.app",
+    tech: ["React", "Next.js", "Javascript", "Typescript"],
+    description:
+      "E-commerce",
+    modalContent: (
+      <>
+        <p>
+         `Implemented cart & payments module for user purchases for the square 2023 hackathon. E-commerce solution is powered by Square API backend.`
         </p>
       </>
     ),
