@@ -18,23 +18,7 @@ export const Projects = () => {
 
 
 const projects = [
-  {
-    title: "Gooogle Cloud Skills Boost",
-    imgSrc: "/project-imgs/t.png", //642 x 408
-    code: "",
-    projectLink: "https://www.cloudskillsboost.google/profile/badges",
-    tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
-    description:
-      "Cloud technologies & Artificial Intelligence",
-    modalContent: (
-      <>
-        <p>
-          'Upskilling through a series of short hands on labs'
-        </p>
-      </>
-    ),
-  },
-  {
+    {
     title: "Tesla Battery Visualizer",
     imgSrc: "./project-imgs/QT.jpg",
     code: "https://github.com/ngoiyaeric/battery-visualizer",
@@ -54,6 +38,23 @@ const projects = [
       </>
     ),
   },
+  {
+    title: "Gooogle Cloud Skills Boost",
+    imgSrc: "/project-imgs/t.png", //642 x 408
+    code: "",
+    projectLink: "https://www.cloudskillsboost.google/profile/badges",
+    tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
+    description:
+      "Cloud technologies & Artificial Intelligence",
+    modalContent: (
+      <>
+        <p>
+          'Upskilling through a series of short hands on labs'
+        </p>
+      </>
+    ),
+  },
+
   {
     title: "PortAudio",
     imgSrc: "/project-imgs/portaudio.png",
