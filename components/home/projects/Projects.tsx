@@ -38,9 +38,25 @@ const projects = [
       </>
     ),
   },
+    {
+    title: "IBM Weavesphere",
+    imgSrc: "/project-imgs/ibm.jpg", //642 x 408
+    code: "",
+    projectLink: "",
+    tech: ["White Board", "Markers"],
+    description:
+      "IBM Design Thinking Certification",
+    modalContent: (
+      <>
+        <p>
+         `Participated in a design sprint to craft a solution for job scarcity for computer science graduates, learnt about key design principles and thinking paradigms. This robot was supposed to send me a photo i let it took of me, it never did, so here is a photo of the robot and i, and its not even smiling`
+        </p>
+      </>
+    ),
+  },
   {
     title: "Gooogle Cloud Skills Boost",
-    imgSrc: "/Coding-Portfolio/P.png", //642 x 408
+    imgSrc: "./project-imgs/t.jpg", //642 x 408
     code: "",
     projectLink: "https://www.cloudskillsboost.google/profile/badges",
     tech: ["Google Cloud Platform", "Tensorflow", "Python", "Jupyter Notebooks"],
@@ -76,24 +92,6 @@ const projects = [
           representation (UInt8 (U = unsigned), Int32). Fine-tuned conversion functions
         </p>
   
-      </>
-    ),
-  },
-  
-
-  {
-    title: "IBM Weavesphere",
-    imgSrc: "/project-imgs/ibm.jpg", //642 x 408
-    code: "",
-    projectLink: "",
-    tech: ["White Board", "Markers"],
-    description:
-      "IBM Design Thinking Certification",
-    modalContent: (
-      <>
-        <p>
-         `Participated in a design sprint to craft a solution for job scarcity for computer science graduates, learnt about key design principles and thinking paradigms. This robot was supposed to send me a photo i let it took of me, it never did, so here is a photo of the robot and i, and its not even smiling`
-        </p>
       </>
     ),
   },
