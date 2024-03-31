@@ -23,9 +23,9 @@ const experience = [
 `,
     tech: [
       "Python",
-      "Google Cloud Platform (GCP)",
+      "Azure",
       "Go",
-      "Open ai",
+      "OpenAI",
       "PostgreSQL",
       "Redis",
       "Rust",
