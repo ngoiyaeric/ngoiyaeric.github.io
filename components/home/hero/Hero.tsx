@@ -49,7 +49,7 @@ export const Hero = () => {
         <Reveal>
           <div className={styles.aboutCopy}>
             <p>
-              -&gt; compsci graduate from york university <br /> <br /> 
+              -&gt; Open-Source maintainer <br /> <br /> 
               -&gt; building <span>impactful</span>, <span> scalable </span>, and <span> secure </span> software <br /> <br /> 
               -&gt;Interested in artificial intelligence, backend engineering & infrastructure.
           
