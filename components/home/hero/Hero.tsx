@@ -63,9 +63,12 @@ export const Hero = () => {
               onClick={() => document.getElementById("contact")?.scrollIntoView()}
             >
               📧
+               
             </StandardButton>
             <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
-              schedule meeting
+             
+              📅
+              
             </a>
           </div>
         </Reveal>
