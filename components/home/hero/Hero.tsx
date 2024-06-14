@@ -58,7 +58,7 @@ export const Hero = () => {
           </div>
         </Reveal>
         <Reveal>
-          <div className={styles.contactWrapper}>
+          <div>
             <StandardButton
               onClick={() => document.getElementById("contact")?.scrollIntoView()}
             >
