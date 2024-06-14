@@ -52,18 +52,22 @@ export const Hero = () => {
               -&gt; Open-Source maintainer <br /> <br /> 
               -&gt; building <span>impactful</span>, <span> scalable </span>, and <span> secure </span> software <br /> <br /> 
               -&gt;Interested in artificial intelligence, backend engineering & infrastructure.
-          
             </p>
             <br />
             <p>let&apos;s connect!</p>
           </div>
         </Reveal>
         <Reveal>
-          <StandardButton
-            onClick={() => document.getElementById("contact")?.scrollIntoView()}
-          >
-             📧
-          </StandardButton>
+          <div className={styles.contactWrapper}>
+            <StandardButton
+              onClick={() => document.getElementById("contact")?.scrollIntoView()}
+            >
+              📧
+            </StandardButton>
+            <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
+              schedule meeting
+            </a>
+          </div>
         </Reveal>
       </div>
       <DotGrid />
