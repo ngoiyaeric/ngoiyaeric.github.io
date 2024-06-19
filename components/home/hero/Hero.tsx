@@ -55,10 +55,10 @@ export const Hero = () => {
             </p>
             <br />
              <div>
-            <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
-             <p>let&apos;s connect!</p>
-            </a>
-          </div>
+          <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
+          <span>let&apos;s connect!</span>
+          </a>
+           </div>
             
           </div>
         </Reveal>
