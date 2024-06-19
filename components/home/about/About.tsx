@@ -19,9 +19,9 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              outside of work, my interests meander in design, art,
-              and Sound/Audio 🔈. you might find me sketching 🎨, or reading cool books 📚. 
-            </p>
+  outside of work, my interests meander in <a href="https://www.ereq.live/ervices/esign" style={{textDecoration: 'underline'}}>design</a>, art,
+  and Sound/<a href="https://eqwaves.bandcamp.com/" style={{textDecoration: 'underline'}}>Audio 🔈</a>. you might find me sketching 🎨, or reading cool books 📚. 
+</p>
           </Reveal>
           <Reveal>
             <div>
