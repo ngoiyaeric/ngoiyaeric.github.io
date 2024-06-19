@@ -54,18 +54,16 @@ export const Hero = () => {
               -&gt;Interested in artificial intelligence, backend engineering & infrastructure.
             </p>
             <br />
-            <p>let&apos;s connect!</p>
+             <div>
+            <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
+             <p>let&apos;s connect!</p>
+            </a>
+          </div>
+            
           </div>
         </Reveal>
         <Reveal>
-          <div>
-          
-            <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
-             
-              Schedule Meeting
-              
-            </a>
-          </div>
+         
         </Reveal>
       </div>
       <DotGrid />
