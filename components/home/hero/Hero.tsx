@@ -5,27 +5,17 @@ import styles from "./hero.module.scss";
 import anime from "animejs";
 
 export const Hero = () => {
-
+  // Uncomment and use this function if you want to add a shake effect on a specific element
   // const shake = anime({
   //   targets: '#secure',
   //   easing: 'easeInOutSine',
   //   duration: 550,
   //   translateX: [
-  //     {
-  //       value: 16 * -1,
-  //     },
-  //     {
-  //       value: 16,
-  //     },
-  //     {
-  //       value: 16/-2,
-  //     },
-  //     {
-  //       value: 16/2,
-  //     },
-  //     {
-  //       value: 0
-  //     }
+  //     { value: -16 },
+  //     { value: 16 },
+  //     { value: -8 },
+  //     { value: 8 },
+  //     { value: 0 }
   //   ],
   // });
 
@@ -43,28 +33,25 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            welcome to my <span> corner of the world wide web</span>
+            welcome to my <span>corner of the world wide web</span>
           </h2>
         </Reveal>
         <Reveal>
           <div className={styles.aboutCopy}>
             <p>
-              -&gt; Creative technologist <br /> <br /> 
-              -&gt; building <span>impactful</span>, <span> scalable </span>, and <span> secure </span> software <br /> <br /> 
-              -&gt;Interested in artificial intelligence, backend engineering & infrastructure.
+              -&gt; Creative technologist <br /> <br />
+              -&gt; building <span>impactful</span>, <span>scalable</span>, and <span>secure</span> software <br /> <br />
+              -&gt; Interested in artificial intelligence, backend engineering & infrastructure.
             </p>
             <br />
-             <div>
-          <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
-          <span>let&apos;s connect!</span>
-          </a>
-           </div>
-            
+            <div>
+              <a href="https://cal.com/ericngoiya/15min" target="_blank" rel="noopener noreferrer" className={styles.scheduleLink}>
+                <span>let&apos;s connect!</span>
+              </a>
+            </div>
           </div>
         </Reveal>
-        <Reveal>
-         
-        </Reveal>
+        <Reveal></Reveal>
       </div>
       <DotGrid />
     </section>
