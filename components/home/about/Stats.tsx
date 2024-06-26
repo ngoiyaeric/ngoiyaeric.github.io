@@ -17,7 +17,7 @@ export const Stats = () => {
           </h4>
           <div className={styles.statGrid}>
             <span className="chip">Python</span>
-            <span className="chip">Rust</span>
+            <span className="chip">C++</span>
             <span className="chip">Java</span>
             <span className="chip">Typescript</span>
             <span className="chip">SQL</span>
