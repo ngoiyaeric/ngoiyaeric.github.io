@@ -34,7 +34,7 @@ const experience = [
     ],
   },
   {
-    title: "York University",
+    title: "Work Study",
     position: "information technology administrator",
     time: "september 2019 - april 2020",
     location: "Toronto, ON",
