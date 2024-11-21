@@ -14,23 +14,15 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Queue Enterprise",
-    position: "Software Engineer",
-    time: "May 2023 - Present",
+    title: "Queue Enterprise (QCX)",
+    position: "Founder",
+    time: "2022 - Present",
     location: "Toronto, ON",
     description: 
     `Designing and implementing cost efficient, highly available, secure, fault tolerant and scalable cloud native Information Technology solutions within Cloud Platforms.
 `,
     tech: [
-      "Python",
-      "Azure",
-      "Go",
-      "OpenAI",
-      "PostgreSQL",
-      "Redis",
-      "Rust",
-      "Git",
-      "Swift" 
+      "Generative artificial intelligence",
     ],
   },
   {
