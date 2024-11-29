@@ -38,22 +38,6 @@ const projects = [
       </>
     ),
   },
-    {
-    title: "IBM Weavesphere",
-    imgSrc: "/project-imgs/ibm.jpg", //642 x 408
-    code: "",
-    projectLink: "",
-    tech: ["White Board", "Markers"],
-    description:
-      "IBM Design Thinking Certification",
-    modalContent: (
-      <>
-        <p>
-         `Participated in a design sprint to craft a solution for job scarcity for computer science graduates, learnt about key design principles and thinking paradigms. This robot was supposed to send me a photo i let it took of me, it never did, so here is a photo of the robot and i, and its not even smiling`
-        </p>
-      </>
-    ),
-  },
   {
     title: "Gooogle Cloud Skills Boost",
     imgSrc: "/project-imgs/P.jpg", //642 x 408
