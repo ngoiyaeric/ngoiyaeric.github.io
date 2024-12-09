@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { AiFillGithub, AiFillLinkedin, SiSubstack, AiFillTwitterCircle, AiFillInstagram } from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin, AiOutlineMediumWorkmark, AiFillTwitterCircle, AiFillInstagram } from "react-icons/ai";
 import styles from "./headinglinks.module.scss";
 
 export const MyLinks = () => {
