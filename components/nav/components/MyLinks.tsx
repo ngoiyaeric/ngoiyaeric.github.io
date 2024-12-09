@@ -57,7 +57,7 @@ export const MyLinks = () => {
           target="_blank"
           rel="nofollow"
         >
-          <SiSubstack size="2.4rem" />
+          <AiOutlineMediumWorkmark size="2.4rem" />
         </Link>
       </motion.span>
     </div>
