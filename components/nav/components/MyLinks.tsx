@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { AiFillGithub, AiFillLinkedin, AiOutlineMediumWorkmark, AiFillTwitterCircle, AiFillInstagram } from "react-icons/ai";
+import { AiFillGithub, AiFillLinkedin, SiSubstack, AiFillTwitterCircle, AiFillInstagram } from "react-icons/ai";
 import styles from "./headinglinks.module.scss";
 
 export const MyLinks = () => {
@@ -53,11 +53,11 @@ export const MyLinks = () => {
         transition={{ duration: 0.5, delay: 0.1 }}
       >
         <Link
-          href="https://medium.com/@EricNgoiya"
+          href="https://substack.com/profile/247595289-eric-ngoiya/note/c-80701554?utm_source=substack&utm_content=first-note-modal"
           target="_blank"
           rel="nofollow"
         >
-          <AiOutlineMediumWorkmark size="2.4rem" />
+          <SiSubstack size="2.4rem" />
         </Link>
       </motion.span>
     </div>
