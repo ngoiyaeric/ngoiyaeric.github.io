@@ -29,7 +29,7 @@ const experience = [
     title: "Work Study",
     position: "information technology administrator",
     time: "september 2019 - april 2020",
-    location: "Toronto, ON",
+    location: "yusc.ca, North York",
     description: `Provisioned Information Technology support for a team of 30+ office personnel using a ticketing system; servicing hardware, software and network technical support, mitigating risk of downtime by 27%.
     Collaborated in a cross-functional team to ship new features for the company website.
     Registered new workstation users onto the company network ensuring the right credentials and permissions are provisioned for each user.
