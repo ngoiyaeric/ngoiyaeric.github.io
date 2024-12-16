@@ -3,6 +3,8 @@ import { Reveal } from "@components/utils/Reveal";
 import { DotGrid } from "./DotGrid";
 import styles from "./hero.module.scss";
 import anime from "animejs";
+import Image from 'next/image';
+import pic from 'public/pic.jpg';
 
 export const Hero = () => {
   // const shake = anime({
@@ -35,6 +37,9 @@ export const Hero = () => {
   return (
     <section className={`section-wrapper ${styles.hero}`}>
       <div className={styles.copyWrapper}>
+        <Reveal>
+          <Image src={pic} alt="Picture of Eric" className={styles.heroImage} />
+        </Reveal>
         <Reveal>
           <h1 className={styles.title}>
             hi, i&apos;m Eric<span>.</span>
