@@ -37,7 +37,7 @@ export const Hero = () => {
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            hi, i&apos;m Eric<span>.</span>
+            hi, i&apos;m Eric Ngoiya <span>.</span>
           </h1>
         </Reveal>
         <Reveal>
