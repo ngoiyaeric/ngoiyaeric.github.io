@@ -1,12 +1,12 @@
 :root {
   font-size: 62.5%;
 
-  --background: #F5F5F5; /* Light gray background */
+  --background: #2d2b76; /* Light gray background */
   --bg-opaque: rgba(245, 245, 245, 0.25); /* Opaque light gray background */
   --background-light: #FFFFFF; /* White background */
   --background-dark: #212121; /* Dark gray background */
 
-  --text: #000000; /* Black text */
+  --text: #FFFFFF; /* Black text */
   --brand: #000000; /* Black brand color */
 
   --text-xs: 1.6rem;
