@@ -20,7 +20,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
   outside of work, my interests meander in <a href="https://sites.google.com/view/ereqdesign/ervices/esign" style={{textDecoration: 'underline'}}>design</a>, art,
-  and Sound/<a href="https://ereqbeats.bandcamp.com/" style={{textDecoration: 'underline'}}>Audio 🔈</a>. you might find me sketching 🎨, or reading cool books 📚. 
+  and Sound/<a href="https://ereqbeats.bandcamp.com/" style={{textDecoration: 'underline'}}>Audio 🔈</a>. ÉréQ mon artiste prénom pour ma créativité. you might find me sketching 🎨, or reading cool books 📚. 
 </p>
           </Reveal>
           <Reveal>
