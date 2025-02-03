@@ -15,9 +15,9 @@ export const Experience = () => {
 const experience = [
   {
     title: "Queue Enterprise (QCX)",
-    position: "Founder",
+    position: "Chief Architect",
     time: "2022 - Present",
-    location: "Toronto, ON",
+    location: "Earth",
     description: 
     `Designing and implementing cost efficient, highly available, secure, fault tolerant and scalable cloud native Information Technology solutions within Cloud Platforms.
 `,
