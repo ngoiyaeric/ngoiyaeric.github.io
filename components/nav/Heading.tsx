@@ -7,9 +7,9 @@ export const Heading = () => {
     <header className={styles.heading}>
       <MyLinks />
       <OutlineButton
-        onClick={() => window.open("")}
+        onClick={() => window.open("https://topmate.io/ereqdesign")}
       >
-        Resume
+        Consult
       </OutlineButton>
     </header>
   );
