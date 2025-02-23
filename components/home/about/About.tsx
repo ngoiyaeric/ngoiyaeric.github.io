@@ -13,13 +13,13 @@ export const About = () => {
         <div>
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
-              hello world⚡, i&apos;m eric. i&apos;m a Software Engineer
-              with a desire to build useful technologies. i'd like to work on ideas that bring value to users' lives.
+              hello world⚡, i&apos;m eric. i&apos;m a Director at an artificial intelligence company, 
+              i'd like to work on ideas that bring value to users' lives.
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-  outside of work, my interests meander in <a href="https://sites.google.com/view/ereqdesign/ervices/esign" style={{textDecoration: 'underline'}}>design</a>, art,
+  outside of work, i dabble in <a href="https://sites.google.com/view/ereqdesign/ervices/esign" style={{textDecoration: 'underline'}}>design</a>, art,
   and Sound/<a href="https://ereqbeats.bandcamp.com/" style={{textDecoration: 'underline'}}>Sound 🔈</a>. ÉréQ mon artiste prénom pour ma créativité. you might find me sketching 🎨, or reading cool books 📚. 
 </p>
           </Reveal>
@@ -29,13 +29,12 @@ export const About = () => {
                 now:
               </p>
               <p className={styles.aboutText}>
-                i&apos;m a Software Engineer at a Start-up 🏢. 
+                i&apos;m a consultant. 
               </p>
               
         
               <p className={styles.aboutText}>
-                focusing on learning new technologies and delving 
-                deeper into cloud infrastructure and artificial intelligence 🤖. 
+                focusing on learning the latest technologies and in cloud infrastructure and artificial intelligence 🤖. 
               </p>
               <p className={styles.aboutText} style={{ fontWeight: "bold" }}>
                 previously:
